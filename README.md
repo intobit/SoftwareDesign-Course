@@ -1,1 +1,1 @@
-Just some excercises from software design pattern cousrse.
+Just some excercises from software design pattern course.
